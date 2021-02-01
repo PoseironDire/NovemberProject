@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Bagn2VnlNdbR4+5hdefQhMgjUUlS3eXXuLaodI1Kuwqyc9jOw8cCQHnW9YxBJxI7b43P6tzUJ9yR42+dHjdcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edvin\\Documents\\Programming\\NovemberProject\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edvin\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\Edvin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
